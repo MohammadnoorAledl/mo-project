@@ -1,0 +1,3 @@
+اسم المستخدم: mohmad
+المسار الحالي: /home/mohmad/project
+عدد الملفات داخل ./data: 0
