@@ -1,0 +1,52 @@
+/* تنسيق عام للصفحة */
+body {
+  font-family: "Cairo", sans-serif;
+  background: #f5f5f5;
+  margin: 0;
+  padding: 20px;
+  direction: rtl;
+}
+
+/* صندوق لكل تطبيق */
+.section {
+  background: white;
+  padding: 20px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* العناوين */
+.section h1 {
+  margin-top: 0;
+  color: #333;
+}
+
+/* الخط الفاصل */
+hr {
+  margin: 40px 0;
+  border: none;
+  border-top: 2px solid #ddd;
+}
+
+/* الحقول */
+input {
+  padding: 8px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* الأزرار */
+button {
+  padding: 8px 15px;
+  background: #0077ff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #005fcc;
+}
